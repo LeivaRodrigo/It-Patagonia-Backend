@@ -15,7 +15,7 @@ import java.util.List;
 
 @Validated
 @RestController
-@RequestMapping("/hexagonal/empresa")
+@RequestMapping("/empresa")
 @RequiredArgsConstructor
 public class EmpresaController {
 
